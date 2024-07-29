@@ -1,4 +1,4 @@
-function X = Kossels(x)
+function X =  Kossel_Triclinic(x)
 
 %% Lattice parameters: a, b, c, aplph, zeta and gamma
 % Define triclinic cell parameters
